@@ -1,0 +1,23 @@
+name: Process and Summarize VTT File - Map Reduce
+
+on:
+  push:
+    paths:
+      - 'docs_mr/**/*.vtt'
+
+jobs:
+  process_and_summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Process VTT files
+        uses: owner/repo@main # Replace with the correct owner/repo and branch
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          public-key: ${{ secrets.PUBLIC_KEY }}
+          secret-key: ${{ secrets.SECRET_KEY }}
+
+      # You may add additional steps if needed
