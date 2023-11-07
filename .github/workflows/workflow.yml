@@ -1,3 +1,4 @@
+# workflow.yml from external testing repository for testing reusable action (valentinkm/MinervasMemo@dev) in other repositories
 name: Process and Summarize VTT File - Map Reduce
 
 on:
