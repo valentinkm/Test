@@ -19,5 +19,3 @@ jobs:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           public-key: ${{ secrets.PUBLIC_KEY }}
           secret-key: ${{ secrets.SECRET_KEY }}
-
-      # You may add additional steps if needed
