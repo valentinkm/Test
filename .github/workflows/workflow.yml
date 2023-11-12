@@ -4,7 +4,7 @@ name: Process and Summarize VTT File - Map Reduce
 on:
   push:
     paths:
-      - 'docs_mr/**/*.vtt'
+      - 'overview/meetings/webex_mapreduce/**/*.vtt'
 
 jobs:
   process_and_summarize:
