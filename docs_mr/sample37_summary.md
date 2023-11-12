@@ -1,0 +1,9 @@
+# Summary
+
+The meeting started with Aaron Peikert thanking everyone for attending the video conference. He mentioned that the modeling conference was discussed previously and suggested that they all sit together and plan the upcoming conferences for the next year. He emphasized updating the repository with the conferences they are interested in and making a budget before December. Aaron also mentioned having a meeting with Anna Lumen to discuss progress on taxonomy. Valentin Kriegmair expressed interest in joining the meeting with Anna Lumen.
+
+Maximilian Ernst confirmed that his poster is officially ready. Aaron asked if everything was alright with the poster and Maximilian confirmed it. Aaron mentioned inviting Maria, the equity representative, to present on equity during a team meeting but hasn't received a response. There was a discussion about organizing a Julia workshop at the Institute, and two possible dates in November were suggested. Hannes provided the dates, and Aaron agreed to look them up and make a decision.
+
+Aaron proposed spending two hours on a quick start on "getting things done" methodology. Andreas Brandmaier suggested inviting an external speaker and accessing central funding. Aaron mentioned that the company behind "getting things done" will release "getting things done for teams" and they can invite someone to discuss team implementation. Aaron confirmed interest in the workshop and decided to email Leoni about it. Nicholas was absent during the discussion.
+
+Hannes and Maximilian discussed a date for their project and settled on December 13th. Aaron suggested doing a test run after a team meeting. Aaron mentioned that Maximilian wasn't interested in giving a colloquium talk due to presenting at other events. The discussion concluded with Aaron suggesting Maximilian present his vision of what he wants to tackle, as previously presented to Oman. Andreas agreed with this suggestion.
